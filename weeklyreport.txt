@@ -1,1 +1,10 @@
-Báo cáo hàng tuần !!
+Ngày 10/02/2020
+ @Việc đã xong tuần trước
+  - Khoá học Boot-Camp Python. Làm Bài tập (Milestone 1 + 2)
+  - Làm Exercise (1 + 2) được giao.
+ @Việc định làm tuần này:
+  - Khoá học Front-end 
+  - Làm giao diện website 
+Ngày 14/02/2020
+  - Khoá học Front-end 
+  - Làm giao diện website 
