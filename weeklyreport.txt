@@ -5,7 +5,9 @@ Ngày 10/02/2020
  @Việc định làm tuần này:
   - Khoá học Front-end 
   - Làm giao diện website 
-Ngày 14/02/2020
-@Việc định làm tuần này:
+Ngày 14/02/2020 - 21/02-2020
+@Việc xong tuần trước
   - Khoá học Front-end 
   - Làm giao diện website 
+ @Việc định làm tuần này:
+  - Flask
